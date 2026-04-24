@@ -1,0 +1,13 @@
+.newDiv{
+    margin: 5px;
+    height: 200px;
+    background-color: aqua;
+    text-align: center;
+    font-size: larger;
+}
+
+.img-fluid{
+    height: 100%;
+    width: 100%;
+
+}
